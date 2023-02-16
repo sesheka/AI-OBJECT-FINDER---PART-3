@@ -1,0 +1,45 @@
+body
+{
+background-color: black;
+color: pink;
+}
+
+#a2
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+color: black;
+background-color: pink;
+}
+
+#status , #number_of_objects
+{
+font-size: 20px;
+}
+
+canvas
+{
+box-shadow: 5px 5px 5px lightgrey;
+border-radius: 10px;
+margin-top: 180px;
+}
+#a1{
+    font-size: 25px;
+    color: white;
+}
+#a3{
+    font-size: 25px;
+    color: pink;
+
+}
+#status, #object_status{
+    background-color: pink;
+    color: black;
+    width: 30%;
+}
+#start{
+    background-color: pink;
+    color: black;
+    font-size: 20px;
+}
